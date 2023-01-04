@@ -16,13 +16,20 @@ namespace MoodAnalyzerApp
         }
         public string AnalyzeMood()
         {
-            if (this.message.Contains("Sad"))                          //TC1.1
+            try
             {
-                return "SAD";
+                if (this.message.Contains("Sad"))                          //TC1.1
+                {
+                    return "SAD";
+                }
+                else
+                {
+                    return "HAPPY";
+                }
             }
-            else
+            catch
             {
-                return "Happy";
+                return "HAPPY";
             }
 
         }
