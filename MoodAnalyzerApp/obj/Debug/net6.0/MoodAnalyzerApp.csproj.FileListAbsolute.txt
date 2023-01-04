@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\bin\Debug\net6.0\MoodAnalyzerApp.exe
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\bin\Debug\net6.0\MoodAnalyzerApp.deps.json
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\bin\Debug\net6.0\MoodAnalyzerApp.runtimeconfig.json
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\bin\Debug\net6.0\MoodAnalyzerApp.dll
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\bin\Debug\net6.0\MoodAnalyzerApp.pdb
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.AssemblyInfo.cs
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.dll
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\refint\MoodAnalyzerApp.dll
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.pdb
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\MoodAnalyzerApp.genruntimeconfig.cache
+D:\DLS-RFP-231\Exception\MOOD ANALYZER\MoodAnalyzerApp\obj\Debug\net6.0\ref\MoodAnalyzerApp.dll
